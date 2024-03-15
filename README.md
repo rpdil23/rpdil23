@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate Full stack developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Abdullah.</h1>
+<h3 align="center">A passionate Full stack developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-142&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-142" /> </p>
 
@@ -13,16 +13,18 @@
 
 - 👯 I’m looking to collaborate on **Open Sourse**
 
-- 💬 Ask me about **Next.js , backend developement**
+- 💬 Ask me about **Next.js , backend developement.**
 
 - 📫 How to reach me **abdulah14200@gmail.com**
 
-- ⚡ Fun fact **I think i can Crack Google**
+- ⚡ Fun fact **I think i can Crack Google.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdu_lah14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdu_lah14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah14200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah14200" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdullah-142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah-142" height="30" width="40" /></a>
+<a href="https://discord.gg/4949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4949" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
