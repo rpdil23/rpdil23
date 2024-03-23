@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abdullah.</h1>
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+
+<h1 align="center">Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> I'm Abdullah.</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan.</h3>
 
 ###
@@ -16,19 +19,12 @@
 
 - ⚡ Fun fact **I think i can Crack Google.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdu_lah14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdu_lah14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah14200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah14200" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdullah-142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah-142" height="30" width="40" /></a>
-<a href="https://discord.gg/4949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4949" height="30" width="40" /></a>
-</p>
 
 <h2 align="left">I code with</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -56,7 +52,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-142&show_icons=true&locale=en&layout=compact" alt="abdullah-142" /></p>
 
 <div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abdullah-142&show_icons=true&locale=en" alt="abdullah-142" /></div>
@@ -65,4 +61,18 @@
 ###
 
 
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-142&" alt="abdullah-142" /></div>
+<div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-142&" alt="abdullah-142" /></div>
+
+###
+<br/>
+
+
+  <h3 align="center">Connect with me:</h3>
+  <br/>
+
+<p align="center">
+<a href="https://twitter.com/abdu_lah14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdu_lah14" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah14200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah14200" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdullah-142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah-142" height="30" width="40" /></a>
+<a href="https://discord.gg/4949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4949" height="30" width="40" /></a>
+</p>
