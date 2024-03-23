@@ -53,19 +53,19 @@
 ###
 
 <div align="left">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-142&show_icons=true&locale=en&layout=compact" alt="abdullah-142" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-dev0&show_icons=true&locale=en&layout=compact" alt="abdullah-142" /></p>
 
-<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abdullah-142&show_icons=true&locale=en" alt="abdullah-142" /></div>
+<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abdullah-dev0&show_icons=true&locale=en" alt="abdullah-142" /></div>
 </div>
 
 <br/>
 
 
-<div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-142&" alt="abdullah-142" /></div>
+<div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-142&" alt="abdullah-dev0" /></div>
 
 <br/>
 
-<a href="https://github.com/Abdullah-142">
+<a href="https://github.com/Abdullah-dev0">
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-142&theme=react-dark" />
 </a>
 
