@@ -58,18 +58,20 @@
 <div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abdullah-142&show_icons=true&locale=en" alt="abdullah-142" /></div>
 </div>
 
-###
+<br/>
 
 
 <div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-142&" alt="abdullah-142" /></div>
 
-###
 <br/>
 
+<a href="https://github.com/Abdullah-142">
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-142&theme=react-dark" />
+</a>
 
-  <h3 align="center">Connect with me:</h3>
-  <br/>
+<br/>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://twitter.com/abdu_lah14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdu_lah14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah14200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah14200" height="30" width="40" /></a>
