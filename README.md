@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah.</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan.</h3>
 
-
+###
 
 
 - 🔭 I’m currently working on **My Backend**
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -56,8 +56,13 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-142&show_icons=true&locale=en&layout=compact" alt="abdullah-142" /></p>
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-142&show_icons=true&locale=en&layout=compact" alt="abdullah-142" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-142&show_icons=true&locale=en" alt="abdullah-142" /></p>
+<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abdullah-142&show_icons=true&locale=en" alt="abdullah-142" /></div>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-142&" alt="abdullah-142" /></p>
+###
+
+
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-142&" alt="abdullah-142" /></div>
