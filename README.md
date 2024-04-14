@@ -61,7 +61,7 @@
 <br/>
 
 
-<div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-142&" alt="abdullah-dev0" /></div>
+<div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-dev0&" alt="abdullah-dev0" /></div>
 
 <br/>
 
