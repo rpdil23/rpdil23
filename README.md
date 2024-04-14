@@ -53,7 +53,7 @@
 ###
 
 <div align="left">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-dev0&show_icons=true&locale=en&layout=compact" alt="abdullah-142" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-dev0&show_icons=true&locale=en&layout=compact" alt="abdullah-142" /></p>
 
 <div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abdullah-dev0&show_icons=true&locale=en" alt="abdullah-142" /></div>
 </div>
