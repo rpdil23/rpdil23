@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Next.js , backend developement.**
 
-- 📫 How to reach me **abdulah14200@gmail.com**
+- 📫 How to reach me **challchutikrputtar@gmail.com**
 
 - ⚡ Fun fact **I think i can Crack Google.**
 
