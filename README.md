@@ -1,8 +1,8 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
-<h1 align="center">Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> I'm Abdullah.</h1>
-<h3 align="center">A passionate Full stack developer from Pakistan.</h3>
+<h1 align="center">Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> I'm Ram.</h1>
+<h3 align="center">A passionate Full stack developer from Puducherry.</h3>
 
 ###
 
@@ -15,9 +15,8 @@
 
 - 💬 Ask me about **Next.js , backend developement.**
 
-- 📫 How to reach me **challchutikrputtar@gmail.com**
+- 📫 How to reach me **ramsteyn17@gmail.com**
 
-- ⚡ Fun fact **I think i can Crack Google.**
 
 
 <h2 align="left">I code with</h2>
@@ -43,9 +42,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" height="40" alt="Mongoose logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
@@ -53,28 +52,26 @@
 ###
 
 <div align="left">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-dev0&show_icons=true&locale=en&layout=compact" alt="abdullah-142" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ram-prasad23&show_icons=true&locale=en&layout=compact" alt="ram-prasad23" /></p>
 
-<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=abdullah-dev0&show_icons=true&locale=en" alt="abdullah-142" /></div>
+<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ram-prasad23&show_icons=true&locale=en" alt="ram-prasad23" /></div>
 </div>
 
 <br/>
 
 
-<div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-dev0&" alt="abdullah-dev0" /></div>
+<div align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-prasad23&" alt="ram-prasad23" /></div>
 
 <br/>
 
 <a href="https://github.com/Abdullah-dev0">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-dev0&theme=react-dark" />
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=ram-prasad23&theme=react-dark" />
 </a>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://twitter.com/abdu_lah14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdu_lah14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah14200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah14200" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdullah-142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah-142" height="30" width="40" /></a>
-<a href="https://discord.gg/1023918110304124990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4949" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ram-prasad-1a1b44266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah14200" height="30" width="40" /></a>
+<a href="https://discord.gg/johndoe6316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4949" height="30" width="40" /></a>
 </p>
