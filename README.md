@@ -1,6 +1,5 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-
 <h1 align="center">Hi there ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> I'm Ram.</h1>
 <h3 align="center">A passionate Full stack developer from Puducherry.</h3>
 
@@ -36,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -47,14 +46,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="nodejs logo"  />
+      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="nodejs logo"  />
+      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="nodejs logo"  />
+        <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="nodejs logo"  />
+        <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
 
 <div align="left">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ram-prasad23&show_icons=true&locale=en&layout=compact" alt="ram-prasad23" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ram-prasad23&show_icons=true&locale=en&layout=donut" alt="ram-prasad23" /></p>
 
-<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ram-prasad23&show_icons=true&locale=en" alt="ram-prasad23" /></div>
+<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ram-prasad23&show_icons=true&locale=en&theme=radical" alt="ram-prasad23" /></div>
+</div>
+
+<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/pin/?username=ram-prasad23&repo=react-apple-login" alt="ram-prasad23" /></div>
+</div>
+
+<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/pin/?username=ram-prasad23&repo=ram-prasad23" alt="ram-prasad23" /></div>
 </div>
 
 <br/>
