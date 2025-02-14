@@ -21,7 +21,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,fastapi,flask,ollama,python,firebase,supabase,nginx,postgres,mongodb,prisma,git,tailwind,antd,docker,figma,kubernetes,aws,redis,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,fastapi,flask,python,firebase,supabase,nginx,postgres,mongodb,prisma,git,tailwind,bootstrap,githubactions,ai,opencv,docker,figma,kubernetes,aws,redis,linux,ubuntu)](https://skillicons.dev)
 
 <br/>
 ###
