@@ -30,7 +30,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rpdil23&show_icons=true&locale=en&layout=donut" alt="rpdil23" /></p>
   
 <br/>
-
 <div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=rpdil23&show_icons=true&locale=en&theme=radical" alt="rpdil23" /></div>
 
 <br/>
