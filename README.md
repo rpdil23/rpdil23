@@ -24,16 +24,23 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,fastapi,flask,python,firebase,supabase,nginx,postgres,mongodb,prisma,git,tailwind,bootstrap,githubactions,ai,opencv,docker,figma,kubernetes,aws,redis,linux,ubuntu)](https://skillicons.dev)
 
 <br/>
-###
+
 
 <div align="left">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rpdil23&show_icons=true&locale=en&layout=donut" alt="rpdil23" /></p>
+  
+<br/>
 
 <div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=rpdil23&show_icons=true&locale=en&theme=radical" alt="rpdil23" /></div>
+
+<br/>
+
 </div>
 
 <div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/pin/?username=rpdil23&repo=react-apple-login" alt="rpdil23" /></div>
 </div>
+
+<br/>
 
 <div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/pin/?username=rpdil23&repo=rpdil23" alt="rpdil23" /></div>
 </div>
@@ -50,4 +57,3 @@
 </a>
 
 <br/>
-
